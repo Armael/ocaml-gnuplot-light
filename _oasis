@@ -27,7 +27,7 @@ Library gnuplot
   Path:            lib
   FindlibName:     gnuplot
   Modules:         Gnuplot
-  BuildDepends:    core, threads
+  BuildDepends:    threads
   CompiledObject:  best
 
 # Examples
